@@ -15,8 +15,11 @@ Both applications share the same vision: **learning by playing**. Instead of rea
 
 # Challenge
 
-<img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/a4fe204a-b4fd-41ce-b41b-bdf397230625" />  
-<img width="743" height="421" alt="image" src="https://github.com/user-attachments/assets/2eb51f2a-e1a1-4aea-9318-0608903a9225" />  
+SSD1306 | ESP32S3
+-|-
+<img width="731" height="523" alt="image" src="https://github.com/user-attachments/assets/a4fe204a-b4fd-41ce-b41b-bdf397230625" />|<img width="743" height="421" alt="image" src="https://github.com/user-attachments/assets/2eb51f2a-e1a1-4aea-9318-0608903a9225" />
+  
+  
 
 Publishing a game also means finishing it and maintaining it.
 
